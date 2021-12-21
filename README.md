@@ -1,13 +1,11 @@
 # Tech Elevator Final Capstone - Comic Keepers!
 
-This is my final capstone project from Tech Elevator, Comic Keepers. We were placed in groups of four & tasked with using Agile Methodologies to create a full stack app that allows users to create & manage comic book collections, & we had only 10 working days to do it. We built a relational database to manage users, collections, & stored comics/characters, & our own RESTful API to link that data with our front-end Single Page Application. We also consumed a robust 3rd party API from Marvel Comics to operate as the source of all of that data & to populate our application with beautiful cover art & information about each comic.
+This is my final capstone project from Tech Elevator, Comic Keepers. We were placed in groups of four & tasked with using Agile methodologies to create a full stack app that allows users to create & manage comic book collections, & we had only 10 working days to do it. We built a relational database to manage users, collections, & stored comics/characters, & our own RESTful API to link that data with our front-end Single Page Application. We also consumed a robust 3rd party API from Marvel Comics to operate as the source of all of that data & to populate our application with beautiful cover art & information about each comic.
 
 
 ## Technology Used
 
 Java
-
-JUnit
 
 Spring Boot
 
