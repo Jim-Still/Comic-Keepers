@@ -38,7 +38,17 @@ Additionally, I made the custom header & each of the custom navigational buttons
 
 ### A Little About Comic Keepers:
 
-1. An unauthenticated user can navigate through the site, looking through
+The site consists of the following:
+
+1. A home landing page, listing the currently existing collections with a preview of what's inside of them.
+![HomeScreen](https://user-images.githubusercontent.com/90332162/146983358-bf1768dc-4c5e-45df-b4e5-8bd3790b6a9a.PNG)
+2. A collections detail page, that shows the contents of a specific collection.
+3. A comic detail page, showing the specifics about an individual comic.
+4. A statistics page, really just a character tracker that automatically updates whenever a new character is added to the database, by way of an appearance in a comic added from the Marvel API. This could be fleshed out to a much greater (and cooler) detail, & be a great source of information on the thousands of characters in the Marvel Universe.
+5. A search page, that allows you search for any comics from Marvel that feature a given character. This is another feature that I would love to implement more completely, & give the user to search for more than just characters - i.e. comic title, series name, event name, etc.
+6. My Collections (for an authenticated user), that allows a user to manage their own collections.
+
+1. An unauthenticated user lands on the home page & can view existing collections, 
 
 
 
