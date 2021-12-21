@@ -69,10 +69,6 @@ Here's the header I put together,
 
 ![CapstoneHeader](https://user-images.githubusercontent.com/90332162/146983968-47eddac7-4227-4506-843f-0e41546da9e0.png)
 
-and a slightly more muted version that we didn't end up using,
-
-![CapstoneHeaderMutedBackground](https://user-images.githubusercontent.com/90332162/146984011-a660a51e-b3f8-45f1-aaa7-63175ee1b5f1.png)
-
 and an example of the distressed half-tone style of the nav buttons I made, to give the whole thing a visual design that felt uniform & true-to-brand throughout, while paying tribute to the printed page of yesteryear.
 
 ![mycollections](https://user-images.githubusercontent.com/90332162/146984670-81a5351a-6a34-4008-aa4b-e4577302b5e8.png)
