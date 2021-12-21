@@ -22,7 +22,7 @@ Vue.js
 
 ## Lessons Learned
 
-This was a wild ride, that's for sure. We had a somewhat difficult group dynamic that resulted in diplomacy playing a key role, & in the end, put my experienced managerial skills to the test. About a quarter of the way through the project, a teammate made the simple error of renaming many of the server classes, which casused some Spring Boot dependancy issues & required most of the back-end to be rewritten. Later on in the process, there was a front-end bug that left two of us without the ability to use VS Code's Live Server feature, & took about two days to track down.
+This was a wild ride, that's for sure. We had a somewhat difficult group dynamic that resulted in diplomacy playing a key role, & in the end, put my experienced managerial skills to the test. About a quarter of the way through the project, a teammate made the simple error of renaming many of the server classes, which caused some Spring Boot dependancy issues & required most of the back-end to be rewritten. Later on in the process, there was a front-end bug that left two of us without the ability to use VS Code's Live Server feature, & took about two days to track down.
 
 Ultimately, I learned just how difficult the software development process can be, & how to push through the distractions to arrive at a finished product. You have to be agile & ready to pivot - sometimes your best laid plans aren't quite going to pan out, so you need to be ready to accept alternative paths, & make forward progress for the good of the project as a whole.
 
