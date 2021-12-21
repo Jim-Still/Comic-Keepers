@@ -41,17 +41,21 @@ Additionally, I made the custom header & each of the custom navigational buttons
 The site consists of the following:
 
 1. A home landing page, listing the currently existing collections with a preview of what's inside of them.
+
 ![HomeScreen](https://user-images.githubusercontent.com/90332162/146983358-bf1768dc-4c5e-45df-b4e5-8bd3790b6a9a.PNG)
 
 2. A collections detail page, that shows the contents of a specific collection.
+
 ![MyCollectionsGrab](https://user-images.githubusercontent.com/90332162/146983577-2a5b5805-2033-4cb4-9864-b08c33d2d778.PNG)
 
 3. A comic detail page, showing the specifics about an individual comic.
 
 4. A statistics page, really just a character tracker that automatically updates whenever a new character is added to the database, by way of an appearance in a comic added from the Marvel API. This could be fleshed out to a much greater (and cooler) detail, & be a great source of information on the thousands of characters in the Marvel Universe.
+
 ![statisticsgrab](https://user-images.githubusercontent.com/90332162/146983641-caa279a2-b193-4178-964a-61090a318ae6.png)
 
 5. A search page, that allows you search for any comics from Marvel that feature a given character. This is another feature that I would love to implement more completely, & give the user to search for more than just characters - i.e. comic title, series name, event name, etc.
+
 ![SearchGrab](https://user-images.githubusercontent.com/90332162/146983662-b6ff48a9-3496-4dc4-8331-10727d77b1d2.PNG)
 
 6. A login page, for the user to provide authentication.
@@ -64,12 +68,13 @@ The site consists of the following:
 Apart from the coding, I enjoyed my opportunity to provide some style to the application.
 
 Here's a close up of the header I put together,
+
 ![CapstoneHeader](https://user-images.githubusercontent.com/90332162/146983968-47eddac7-4227-4506-843f-0e41546da9e0.png)
 
 and a slightly more muted version that we didn't end up using,
+
 ![CapstoneHeaderMutedBackground](https://user-images.githubusercontent.com/90332162/146984011-a660a51e-b3f8-45f1-aaa7-63175ee1b5f1.png)
 
 and an example of the distressed half-tone style of the nav buttons I made, to give the whole thing a visual design that felt uniform & true-to-brand throughout, while paying tribute to the printed page of yesteryear.
+
 ![submit](https://user-images.githubusercontent.com/90332162/146984205-ffa895f0-adf7-41b0-ad54-4992b6e953a2.png)
-and an example of the distressed half-tone style of the nav buttons I made, to give the whole thing a visual design that felt uniform & true-to-brand throughout, while paying tribute to the printed page of yesteryear.
-6. A login page, for the user to provide authentication.
