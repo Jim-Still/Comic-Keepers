@@ -67,7 +67,7 @@ The site consists of the following:
 
 Apart from the coding, I enjoyed my opportunity to provide some style to the application.
 
-Here's a close up of the header I put together,
+Here's the header I put together,
 
 ![CapstoneHeader](https://user-images.githubusercontent.com/90332162/146983968-47eddac7-4227-4506-843f-0e41546da9e0.png)
 
@@ -77,4 +77,5 @@ and a slightly more muted version that we didn't end up using,
 
 and an example of the distressed half-tone style of the nav buttons I made, to give the whole thing a visual design that felt uniform & true-to-brand throughout, while paying tribute to the printed page of yesteryear.
 
-![submit](https://user-images.githubusercontent.com/90332162/146984205-ffa895f0-adf7-41b0-ad54-4992b6e953a2.png)
+![mycollections](https://user-images.githubusercontent.com/90332162/146984670-81a5351a-6a34-4008-aa4b-e4577302b5e8.png)
+
