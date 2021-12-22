@@ -52,7 +52,7 @@ The site consists of the following:
 
 ![statisticsgrab](https://user-images.githubusercontent.com/90332162/146983641-caa279a2-b193-4178-964a-61090a318ae6.png)
 
-5. A search page, that allows you search for any comics from Marvel that feature a given character. This is another feature that I would love to implement more completely, & give the user to search for more than just characters - i.e. comic title, series name, event name, etc.
+5. A search page, that allows you search for any comics from Marvel that feature a given character. This is another feature that I would love to implement more completely, & give the user the ability to search for more than just characters - i.e. comic title, series name, event name, etc.
 
 ![SearchGrab](https://user-images.githubusercontent.com/90332162/146983662-b6ff48a9-3496-4dc4-8331-10727d77b1d2.PNG)
 
